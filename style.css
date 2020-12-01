@@ -65,15 +65,15 @@
 }
 
 .sp-selector-4, .button-label-4 {
-    margin-left: 18px;
+    margin-left: 0px;
 }
 
 .sp-selector-5, .button-label-5 {
-    margin-left: 36px;
+    margin-left: 18px;
 }
 
 .sp-selector-6, .button-label-6 {
-    margin-left: 54px;
+    margin-left: 36px;
 }
 
 .sp-arrow {
@@ -96,10 +96,7 @@
 	margin-top: -18px;
 }
 
-.sp-selector-1:checked ~ .sp-arrow.sp-a2,
-.sp-selector-2:checked ~ .sp-arrow.sp-a3,
-.sp-selector-3:checked ~ .sp-arrow.sp-a4,
-.sp-selector-4:checked ~ .sp-arrow.sp-a5, .sp-selector-5:checked ~ .sp-arrow-sp-a6 {
+.sp-selector-1:checked ~ .sp-arrow.sp-a2, .sp-selector-2:checked ~ .sp-arrow.sp-a3, .sp-selector-3:checked ~ .sp-arrow.sp-a4, .sp-selector-4:checked ~ .sp-arrow.sp-a5, .sp-selector-5:checked ~ .sp-arrow-sp-a6, sp-selector-6:checked ~ .sp-arrow-sp-a5 {
     right: 15px;
 	display: block;
 	background-position: top right;
@@ -185,7 +182,7 @@ input.sp-selector-6:checked ~ .sp-content .sp-parallax-bg {
 
 .sp-slider > li {
 	color: #fff;
-	width: 16.66%;
+	width: 16.67%;
 	box-sizing: border-box;
 	height: 100%;
 	padding: 0 60px;
