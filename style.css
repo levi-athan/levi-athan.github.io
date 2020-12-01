@@ -41,7 +41,7 @@
 .sp-slideshow input + label {
     position: absolute;
     top: 550px;
-	left: 50%;
+	left: 55px;
     width: 6px;
 	height: 6px;
 	display: block;
@@ -65,15 +65,15 @@
 }
 
 .sp-selector-4, .button-label-4 {
-    margin-left: 0px;
-}
-
-.sp-selector-5, .button-label-5 {
     margin-left: 18px;
 }
 
-.sp-selector-6, .button-label-6 {
+.sp-selector-5, .button-label-5 {
     margin-left: 36px;
+}
+
+.sp-selector-6, .button-label-6 {
+    margin-left: 54px;
 }
 
 .sp-arrow {
