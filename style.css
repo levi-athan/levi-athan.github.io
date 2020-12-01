@@ -17,7 +17,7 @@
 }
 
 .sp-parallax-bg {
-    background: url(https://i.imgur.com/4lSYBt9.png) repeat-x scroll 0 0;
+    background: url(https://i.imgur.com/4lSYBt9.png) no-repeat scroll 0 0;
     background-size: cover;
 	position: absolute;
 	top: 0;
@@ -151,14 +151,17 @@ input.sp-selector-1:checked ~ .sp-content .sp-parallax-bg {
 
 input.sp-selector-2:checked ~ .sp-content .sp-parallax-bg {
     background-position: -370px 0;
+	margin-top: -20px;
 }
 
 input.sp-selector-3:checked ~ .sp-content .sp-parallax-bg {
     background-position: -870px 0;
+	margin-top: -20px;
 }
 
 input.sp-selector-4:checked ~ .sp-content .sp-parallax-bg {
     background-position: -1370px 0;
+	margin-top: -20px;
 }
 
 input.sp-selector-5:checked ~ .sp-content .sp-parallax-bg {
