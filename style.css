@@ -155,21 +155,21 @@ input.sp-selector-2:checked ~ .sp-content .sp-parallax-bg {
 }
 
 input.sp-selector-3:checked ~ .sp-content .sp-parallax-bg {
-    background-position: -870px 0;
+    background-position: -887px 0;
 	margin-top: -20px;
 }
 
 input.sp-selector-4:checked ~ .sp-content .sp-parallax-bg {
-    background-position: -1370px 0;
+    background-position: -1404px 0;
 	margin-top: -20px;
 }
 
 input.sp-selector-5:checked ~ .sp-content .sp-parallax-bg {
-    background-position: -1885px 0;
+    background-position: -1912px 0;
 }
 
 input.sp-selector-6:checked ~ .sp-content .sp-parallax-bg {
-    background-position: -2385px 0;
+    background-position: -2420px 0;
 }
 
 .sp-slider {
@@ -213,10 +213,20 @@ input.sp-selector-6:checked ~ .sp-content .sp-parallax-bg {
     border-radius: 4px;
 }
 
+.remybox3 {
+	width: 392px;
+	padding: 50px;
+    background-color: rgba(0,0,0,0.3);
+    margin: 120px auto 0px;
+    height: 229px;
+    text-align: justify;
+    border-radius: 4px;
+}
+
 .remybox2 {
 	overflow: auto;
-	height: 300px;
-	width: 400px;
+	height: 230px;
+	padding: 0px 15px 0px 0px;
 }
 
 input.sp-selector-1:checked ~ .sp-content .sp-slider {
