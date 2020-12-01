@@ -119,6 +119,7 @@
 
 input.sp-selector-1:checked ~ .sp-content {
     background-position: 0 0;
+	margin-top: -20px;
 }
 
 input.sp-selector-2:checked ~ .sp-content {
