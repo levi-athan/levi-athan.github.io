@@ -73,7 +73,7 @@
 }
 
 .sp-selector-6, .button-label-6 {
-    margin-left: 36px;
+    margin-left: 54px;
 }
 
 .sp-arrow {
@@ -175,7 +175,7 @@ input.sp-selector-6:checked ~ .sp-content .sp-parallax-bg {
 .sp-slider {
     position: relative;
 	left: 0;
-    width: 500%;
+    width: 600%;
 	height: 100%;
 	list-style: none;
     margin: 0;
@@ -185,7 +185,7 @@ input.sp-selector-6:checked ~ .sp-content .sp-parallax-bg {
 
 .sp-slider > li {
 	color: #fff;
-	width: 20%;
+	width: 16.66%;
 	box-sizing: border-box;
 	height: 100%;
 	padding: 0 60px;
