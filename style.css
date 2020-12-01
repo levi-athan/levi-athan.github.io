@@ -225,8 +225,13 @@ input.sp-selector-6:checked ~ .sp-content .sp-parallax-bg {
 
 .remybox2 {
 	overflow: auto;
+	color: #a2a1a7;
 	height: 230px;
 	padding: 0px 15px 0px 0px;
+}
+
+.remybox2::-webkit-scrollbar-track, .remybox2::-webkit-scrollbar-thumb {
+	background-color: rgba(0,0,0,0);
 }
 
 input.sp-selector-1:checked ~ .sp-content .sp-slider {
