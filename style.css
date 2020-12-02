@@ -150,7 +150,7 @@ input.sp-selector-1:checked ~ .sp-content .sp-parallax-bg {
 }
 
 input.sp-selector-2:checked ~ .sp-content .sp-parallax-bg {
-    background-position: -378px 0;
+    background-position: -379px 0;
 	margin-top: -20px;
 }
 
@@ -204,7 +204,7 @@ input.sp-selector-6:checked ~ .sp-content .sp-parallax-bg {
 }
 
 .remybox1 {
-	width: 392px;
+	width: 394px;
 	padding: 50px;
     background-color: rgba(0,0,0,0.3);
     margin: 100px auto 0px;
