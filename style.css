@@ -206,7 +206,7 @@ input.sp-selector-6:checked ~ .sp-content .sp-parallax-bg {
 .remybox1 {
 	width: 394px;
 	padding: 50px;
-    background-color: rgba(0,0,0,0.3);
+    background-color: rgba(0,0,0,0.5);
     margin: 100px auto 0px;
     height: 229px;
     text-align: justify;
@@ -216,7 +216,7 @@ input.sp-selector-6:checked ~ .sp-content .sp-parallax-bg {
 .remybox3 {
 	width: 392px;
 	padding: 50px;
-    background-color: rgba(0,0,0,0.3);
+    background-color: rgba(0,0,0,0.5);
     margin: 120px auto 0px;
     height: 229px;
     text-align: justify;
