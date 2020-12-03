@@ -1,3 +1,7 @@
+@font-face {
+	font-family: 'daniel'; src: url("http://levi-athan.github.io/daniel.ttf");
+}
+
 .sp-slideshow {
     position: relative;
 	margin: 0px auto;
@@ -232,6 +236,12 @@ input.sp-selector-6:checked ~ .sp-content .sp-parallax-bg {
 
 .remybox2::-webkit-scrollbar-track, .remybox2::-webkit-scrollbar-thumb {
 	background-color: rgba(0,0,0,0);
+}
+
+.remybox2 h4 {
+	font-family: 'daniel';
+	font-size: 26px;
+	color: #ff6868;	
 }
 
 input.sp-selector-1:checked ~ .sp-content .sp-slider {
